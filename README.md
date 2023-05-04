@@ -1,6 +1,6 @@
 Created: 02/04/2023
 
-This is a project from my CSC 285 course, it is meant to be a baseline implementation of the Singleton Design Pattern.
+This is a project from my CSC 285 course, it is meant to be a baseline implementation of the Singleton design pattern.
 
 Use Cases:
 
